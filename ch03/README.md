@@ -4,3 +4,8 @@
 ```
 python logistic_regression.py
 ```
+
+### 計算グラフと学習を可視化
+```
+tensorboard --logdir=</file_path>
+```
